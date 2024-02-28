@@ -178,6 +178,13 @@
 				<td>$23.37</td>
 				<td>✔️ Yes</td>
 			</tr>
+			<tr>
+				<td>RFMAX</td>
+				<td><a href="PDFs/RFMAX-RFID-FLAT-PANEL-R9028-LPV-SSF.pdf">R9028-LPV-SSF</a></td>
+				<td>250mm (L) x 250mm (W)</td>
+				<td>$150</td>
+				<td>✔️ Yes</td>
+			</tr>
 		</table>
 
 #### Vehicle Antennas
