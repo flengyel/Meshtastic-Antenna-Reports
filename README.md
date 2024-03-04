@@ -179,7 +179,7 @@
 				<td>✔️ Yes</td>
 			</tr>
 			<tr>
-				<td>STOCK</td>
+				<td>Canadian Noname Vendor</td>
 				<td><a href="PDFs/B0BSXWY4G3.pdf">B0BSXWY4G3</a></td>
 				<td>300mm (L) x 23mm (W)</td>
 				<td>$25 (CAN)</td>
